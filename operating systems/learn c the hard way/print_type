@@ -1,0 +1,7 @@
+integer declare int print %d
+long declare long print %ld
+floating declare float/double prinf f%
+character declare char with ' print %c
+string (Array of characters) declare char name[] with " print %s
+
+print a scientific notation %e

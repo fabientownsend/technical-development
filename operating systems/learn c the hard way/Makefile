@@ -1,4 +1,4 @@
-all: ex12
+all: ex16
 
 CFLAGS=-Wall -g
 

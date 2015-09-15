@@ -1,0 +1,12 @@
+\a  alram
+\b  backspace
+\f  formfeed
+\n  newline
+\r carriage return
+\t horrizontal tab
+\v vertical tab
+\\ backslash
+\' single quotation mark
+\" double quotation mark
+\nnn interpreted as an octal number
+\xhh hh interpreted as a hexadecimal number
