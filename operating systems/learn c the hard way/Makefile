@@ -1,4 +1,4 @@
-all: ex16
+all: testPointer
 
 CFLAGS=-Wall -g
 
