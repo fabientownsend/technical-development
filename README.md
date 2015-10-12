@@ -13,6 +13,9 @@ There are the differents topics :
 * Management
 
 ## Algorithm
+* Algorithms fourth edition
+* Cracking the Coding Interview
+* https://www.interviewbit.com
 
 ## System
 The resources :
@@ -20,6 +23,10 @@ The resources :
 * Code: The Hidden Language of Computer Hardware and Software by Charles Petzold
 * http://c.learncodethehardway.org/
 
-## network
+## Network
 ## Debugging
+* Clean Code
+* Working Effectively with Legacy Code
+* Essential Skills for the Agile Developer
+* https://cleancoders.com/
 ## Management
