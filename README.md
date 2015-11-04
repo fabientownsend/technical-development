@@ -24,6 +24,7 @@ The resources :
 * http://c.learncodethehardway.org/
 
 ## Network
+[TCP/IP Basics](http://fr.slideshare.net/sanjoysanyal/tcpip-basics)
 ## Debugging
 * Clean Code
 * Working Effectively with Legacy Code
