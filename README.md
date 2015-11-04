@@ -6,11 +6,11 @@ My project is to improve deeper my knoledge about software for that I will use t
 * Tutos
 
 There are the differents topics :
-* [Algorithm](/#user-content-algorithm)
-* [System](/#user-content-System)
-* [Network](/#user-content-network)
-* [Code](/#user-content-code)
-* [Management](/#user-content-teamwork)
+* [Algorithm](https://github.com/fabientownsend/technical-development#user-content-algorithm)
+* [System](https://github.com/fabientownsend/technical-development#user-content-System)
+* [Network](https://github.com/fabientownsend/technical-development#user-content-network)
+* [Code](https://github.com/fabientownsend/technical-development#user-content-code)
+* [Management](https://github.com/fabientownsend/technical-development#user-content-teamwork)
 
 ## Algorithm
 * Algorithms fourth edition
