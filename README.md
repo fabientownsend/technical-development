@@ -25,9 +25,9 @@ The resources :
 
 ## Network
 [TCP/IP Basics](http://fr.slideshare.net/sanjoysanyal/tcpip-basics)
-## Debugging
-* Clean Code
+## Codding
+* [Clean Code] (https://cleancoders.com)
 * Working Effectively with Legacy Code
 * Essential Skills for the Agile Developer
-* https://cleancoders.com/
-## Management
+* Working Effectively with Legacy Code
+## Teamwork
